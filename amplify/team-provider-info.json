@@ -1,0 +1,20 @@
+{
+    "aaron": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-justbringbeer-aaron-145306-authRole",
+            "UnauthRoleArn": "arn:aws:iam::733801772592:role/amplify-justbringbeer-aaron-145306-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::733801772592:role/amplify-justbringbeer-aaron-145306-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-justbringbeer-aaron-145306-deployment",
+            "UnauthRoleName": "amplify-justbringbeer-aaron-145306-unauthRole",
+            "StackName": "amplify-justbringbeer-aaron-145306",
+            "StackId": "arn:aws:cloudformation:us-east-1:733801772592:stack/amplify-justbringbeer-aaron-145306/76f783c0-ceb0-11ea-9870-0a0703eab8ad",
+            "AmplifyAppId": "d102mn93vh011o"
+        },
+        "categories": {
+            "auth": {
+                "justbringbeerb0a7cf63": {}
+            }
+        }
+    }
+}
